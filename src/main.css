@@ -1,0 +1,64 @@
+.font-lobster {
+    font-family: 'Lobster', cursive;
+}
+
+.title {
+    font-size: 3em !important;
+}
+
+.light {
+    font-weight: 200;
+}
+
+.purple-back {
+    background-color: #753cb7 !important;  
+    color: white;
+}
+
+.purple-dark {
+    background-color: #5e2e92;
+    width: 70%;
+    margin-left: 15%;
+    padding: 5%;
+    padding-top: 2em;
+}
+
+.box {
+    width: 19%;
+    margin: auto;
+}
+
+.box label {
+    text-align: center;
+}
+
+.box input {
+    width: 100%;
+}
+
+[type=text] {
+    border: 5px solid white !important;
+    background-color: transparent;
+    text-align: center;
+    color: white;
+    font-size: 1.3em;
+    font-weight: 600;
+    padding: 10px;
+}
+
+[type=checkbox] {
+    background-color: red;
+}
+
+label {
+    font-size: 0.7em;
+}
+
+#botaoCalcular {
+    background-color: #63DC3E;
+    color: #753cb7;
+    padding: 10px;
+    width: 30%;
+    margin: auto;
+    font-weight: Bold;
+}
